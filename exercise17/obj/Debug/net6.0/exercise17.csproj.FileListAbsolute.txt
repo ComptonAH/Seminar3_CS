@@ -1,0 +1,15 @@
+D:\PythonGB\C#\Seminar3\exercise17\bin\Debug\net6.0\exercise17.exe
+D:\PythonGB\C#\Seminar3\exercise17\bin\Debug\net6.0\exercise17.deps.json
+D:\PythonGB\C#\Seminar3\exercise17\bin\Debug\net6.0\exercise17.runtimeconfig.json
+D:\PythonGB\C#\Seminar3\exercise17\bin\Debug\net6.0\exercise17.dll
+D:\PythonGB\C#\Seminar3\exercise17\bin\Debug\net6.0\exercise17.pdb
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.csproj.AssemblyReference.cache
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.GeneratedMSBuildEditorConfig.editorconfig
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.AssemblyInfoInputs.cache
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.AssemblyInfo.cs
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.csproj.CoreCompileInputs.cache
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.dll
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\refint\exercise17.dll
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.pdb
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\exercise17.genruntimeconfig.cache
+D:\PythonGB\C#\Seminar3\exercise17\obj\Debug\net6.0\ref\exercise17.dll
